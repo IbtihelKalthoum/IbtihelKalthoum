@@ -1,7 +1,7 @@
  # 👋 Hi, I’m @IbtihelKalthoum
- # 👀 I’m interested in Web Development & DevOps
  # 🌱 I’m an Engineering Student
- # 🎓 I’m lookingfor an end of studies internship
+ # 👀 I’m interested in Web Development & DevOps
+ # 🎓 I’m looking for an end of studies internship
  # 📫 How to reach me 
 <table cellspacing="1" cellpadding="2" valign="middle" style="border-collapse: collapse; border: none;">
   <tbody>
