@@ -1,9 +1,9 @@
-- # 👋 Hi, I’m @IbtihelKalthoum
-- # 👀 I’m interested in Web Development & DevOps
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- # 📫 How to reach me 
-- <table cellspacing="1" cellpadding="2" valign="middle" style="border-collapse: collapse; border: none;">
+ # 👋 Hi, I’m @IbtihelKalthoum
+ # 👀 I’m interested in Web Development & DevOps
+ # 🌱 I’m an Engineering Student
+ # 💞️ I’m lookingfor an end of studies internship
+ # 📫 How to reach me 
+<table cellspacing="1" cellpadding="2" valign="middle" style="border-collapse: collapse; border: none;">
   <tbody>
     <tr style="border: none;">
       <td style="border: none;">
