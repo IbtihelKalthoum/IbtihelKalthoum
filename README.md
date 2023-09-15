@@ -17,7 +17,7 @@
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
     <tr>
-      <th colspan="3">CURRENT STACK</th>
+      <th colspan="6">CURRENT STACK</th>
       
     </tr>
     <tr>
