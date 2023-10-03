@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m IbtihelKalthoum👩‍💻
 
-<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="150">
 
 ## 🌐 About Me
 
