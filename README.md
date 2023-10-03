@@ -1,8 +1,10 @@
-<div align="center">
+
 
 # 👋 Hi, I’m IbtihelKalthoum👩‍💻
 
+<div align="center">
 <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="150">
+</div>
 
 ## 🌐 About Me
 
@@ -21,4 +23,4 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30"/>
 </a>
 
-</div>
+
