@@ -1,19 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I’m @IbtihelKalthoum
+# 👩‍💻 IbtihelKalthoum
 
-🌐 Actively seeking new professional opportunities.
+![Alt Text](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
-![Web Developer](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+## 🌐 About Me
 
-## 🛠️ About Me
+🎓 **IT Engineer** passionate about bridging the gap between technology and users.    
+🚀 Skilled in **Web Development**, **DevOps**, and **Cloud Technologies**.    
+🔍 Actively seeking new professional opportunities to make a difference.
 
-- 💻 **Profession**: IT Engineer
-- 👀 **Interests**: Web Development, DevOps, and Cloud
+## 📫 Let's Connect!
 
-## 📬 Get in Touch
-
-- **[GitHub](https://github.com/IbtihelKalthoum)**
-- **[LinkedIn](https://www.linkedin.com/in/ibtihel-kalthoum-818218208/)**
+- **[GitHub](https://github.com/IbtihelKalthoum)** 📖
+- **[LinkedIn](https://www.linkedin.com/in/ibtihel-kalthoum-818218208/)** 💼
 
 </div>
