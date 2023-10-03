@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @IbtihelKalthoum
- # 🚀 Freshly Graduated **IT Engineer**
- # 👀 I’m interested in Web Development, DevOps & Cloud
+ # 💻 Freshly Graduated **IT Engineer**
+ # 🚀 I’m interested in Web Development, DevOps & Cloud
  # 🔍 Actively seeking new professional opportunities.
  # 🌐 Eagerly exploring new frontiers in the tech world.
  # 📫 How to reach me 
