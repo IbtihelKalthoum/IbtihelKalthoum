@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 👋 Hi, I’m IbtihelKalthoum👩‍💻
 
@@ -6,12 +6,10 @@
 
 ## 🌐 About Me
 
-# 💻 Freshly Graduated **IT Engineer** 
-# 🚀 Passionate about **Web Development**, **DevOps**, & **Cloud**.
-# 🔍 Actively seeking new professional opportunities to make a difference.
-# 🌐 Eagerly exploring new frontiers in the tech world.
-
-
+### 💻 Freshly Graduated **IT Engineer** 
+### 🚀 Passionate about **Web Development**, **DevOps**, & **Cloud**.
+### 🔍 Actively seeking new professional opportunities to make a difference.
+### 🌐 Eagerly exploring new frontiers in the tech world.
 
 ## 📫 Let's Connect!
 
@@ -23,4 +21,4 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30"/>
 </a>
 
-
+</div>
