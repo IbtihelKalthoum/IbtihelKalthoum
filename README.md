@@ -6,7 +6,7 @@
  # 🌟 Portfolio & Achievements
 
 - 📂 **Portfolio**: [Check out my projects here!](https://ibtihel-k-portfolio.netlify.app/)
-- ☁ **Salesforce Achievements**: [See my accomplishments on Salesforce](https://www.salesforce.com/trailblazer/profile)
+- ☁ **Salesforce Achievements**: [See my accomplishments on Salesforce](https://www.salesforce.com/trailblazer/ikalthoum) 
 
  # 📫 Let's Connect
 <a href="https://github.com/IbtihelKalthoum" target="_blank">
