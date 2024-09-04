@@ -3,9 +3,8 @@
  # 🚀 I’m interested in DevOps & Cloud
  # 🔍 Actively seeking new professional opportunities.
  # 🌐 Eagerly exploring new frontiers in the tech world.
- # 🌟 Portfolio & Achievements
-
-- 📂 **Portfolio**: [Check out my projects here!](https://ibtihel-k-portfolio.netlify.app/)
+ # 🌟 Achievements
+ 
 - ☁ **Salesforce Achievements**: [See my accomplishments on Salesforce](https://www.salesforce.com/trailblazer/ikalthoum) 
 
  # 📫 Let's Connect
